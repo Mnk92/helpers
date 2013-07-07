@@ -7,3 +7,5 @@ I use some tools for Windows, maybe it can be helpful for you.
 Also those tools provide command line arguments.
 
 To use this tools, it is a good idea to move them into separate folder and add path to this folder to Path environment variable.
+
+If you need binaries, you can find them here: https://helpers.codeplex.com/
